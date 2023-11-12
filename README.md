@@ -1,1 +1,1 @@
-# `typescript-template`
+# `bun-mongodb`
